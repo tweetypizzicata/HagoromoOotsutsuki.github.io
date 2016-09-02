@@ -60,11 +60,12 @@
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav navbar-right" id="i18_navbar">
                         <li><a class="page-scroll" href="#page-top"><span data-i18n="nav.home">Willkommen</span></a></li>
-                        <li><a class="page-scroll" href="#about_me"><span data-i18n="nav.about_me">Über mich</span></a></li>
+<!--                        <li><a class="page-scroll" href="#about_me"><span
+	data-i18n="nav.about_me">Über mich</span></a></li> -->
                         <li><a class="page-scroll" href="#career"><span data-i18n="nav.career">Ausbildung und Beruf</span></a></li>
                         <li><a class="page-scroll" href="#therapie"><span data-i18n="nav.skills">Psychotherapie</span></a></li>
                         <li><a class="page-scroll" href="#material"><span data-i18n="nav.link">Material</span></a></li>
-                        <li><a class="page-scroll" href="#Kontakt"><span data-i18n="nav.link">Kontakt</span></a></li>
+                        <li><a class="page-scroll" href="#kontakt"><span data-i18n="nav.link">Kontakt</span></a></li>
                     </ul>
                 </div>
             </div>
@@ -281,6 +282,7 @@ data-i18n="career.netease_date">2007-2009 </span><br/> <small><span data-i18n="c
 <section id="therapie" class="features">
 	<div class="container">
         <div class="row m-b-lg">
+                <div class="navy-line"></div>
 		
 <h1 id="psychotherapie">Psychotherapie</h1>
 
@@ -357,6 +359,7 @@ hinzugezogen werden.</p>
 </section>
 <section id="material" class="features gray-section">
 	<div class="container">
+                <div class="navy-line"></div>
         <div class="row m-b-lg">
 		<h1 id="material">Material</h1>
 
@@ -366,8 +369,8 @@ hinzugezogen werden.</p>
 	</div>
 </section>
 
-<section id="kontakt" class="contact features">
-    <div class="container" id="i18_link">
+<section id="kontakt" class="features">
+    <div class="container" >
         <div class="row m-b-lg">
             <div class="col-lg-12 text-center">
                 <div class="navy-line"></div>
@@ -375,7 +378,7 @@ hinzugezogen werden.</p>
             </div>
         </div>
         <div class="row">
-            <div class="col-sm-4 col-sm-offset-4">
+            <div class="col-lg-12 text-center">
 		      <p>TODO</p>
 
 <p>Dipl.-Psych. Eva Heimke
@@ -385,7 +388,7 @@ TODO: hier fehlt noch ein Bild von meiner Mailadresse]</p>
 Inhaltlich verantwortlich: Dipl.-Psych. Eva Heimke</p>
 
 
-            </div>
+        </div>
         </div>
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center m-t-lg m-b-lg">
@@ -447,57 +450,6 @@ Inhaltlich verantwortlich: Dipl.-Psych. Eva Heimke</p>
     })();
     // Activate WOW.js plugin for animation on scrol
     new WOW().init();
-</script>
-
-<script>
-    $(document).ready(function (){
-        $.i18n.init({
-            resGetPath: 'static/locales/__lng__.json',
-            load: 'unspecific',
-            fallbackLng: false,
-            lng: 'en'
-        }, function (t){
-            $('.i18container').i18n();
-            // $('#i18_title').i18n();
-            $('#i18_navbar').i18n();
-            $('#i18_about_me').i18n();
-            $('#i18_skills').i18n();
-            $('#i18_projects').i18n();
-            $('#i18_career').i18n();
-            $('#i18_blog').i18n();
-            $('#i18_link').i18n();
-        });
-        $('.set_en').on('click', function (){
-            i18n.setLng('en', function(){
-                $('.i18container').i18n();
-                // $('#i18_title').i18n();
-                $('#i18_navbar').i18n();
-                $('#i18_about_me').i18n();
-                $('#i18_skills').i18n();
-                $('#i18_projects').i18n();
-                $('#i18_career').i18n();
-                $('#i18_blog').i18n();
-                $('#i18_link').i18n();
-                // $('.set_en').addClass('active');
-                // $('.set_cn').removeClass('active');
-            });
-        });
-        $('.set_cn').on('click', function (){
-            i18n.setLng('cn', function(){
-                $('.i18container').i18n();
-                // $('#i18_title').i18n();
-                $('#i18_navbar').i18n();
-                $('#i18_about_me').i18n();
-                $('#i18_skills').i18n();
-                $('#i18_projects').i18n();
-                $('#i18_career').i18n();
-                $('#i18_blog').i18n();
-                $('#i18_link').i18n();
-                // $('.set_cn').addClass('active');
-                // $('.set_en').removeClass('active');
-            });
-        });
-    });
 </script>
 
 
