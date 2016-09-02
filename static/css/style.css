@@ -2178,6 +2178,12 @@ div.dt-button-info {
   font-size: 13px;
   line-height: 20px;
 }
+.ul {
+	color:red;
+}
+.li {
+	color:red;
+}
 .dd-list {
   display: block;
   position: relative;
@@ -4583,7 +4589,6 @@ ul.notes li div p {
 }
 ul.notes li div {
   text-decoration: none;
-  color: #000;
   background: #ffc;
   display: block;
   height: 140px;
@@ -4632,7 +4637,6 @@ ul.notes li div:focus {
 }
 ul.notes li div {
   text-decoration: none;
-  color: #000;
   background: #ffc;
   display: block;
   height: 210px;
@@ -6574,7 +6578,7 @@ body.landing-page {
   color: #3385FF;
 }
 .landing-page section p {
-  color: #aeaeae;
+  color: #676a6c;
   font-size: 13px;
 }
 .landing-page address {
@@ -6892,7 +6896,7 @@ body.landing-page {
   padding: 10px 16px;
   border-top: 1px solid #e7eaec;
   text-align: center;
-  color: #aeaeae;
+  color: #676a6c;
 }
 .landing-page .pricing-plan .pricing-price span {
   font-weight: 700;
