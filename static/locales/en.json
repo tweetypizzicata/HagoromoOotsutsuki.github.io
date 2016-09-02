@@ -1,22 +1,26 @@
 {
   "website":{
-    "title": "Jack's blog"
+    "title": "Psychotherapie Eva Heimke"
   },
   "nav":{
     "home": "Home",
-    "about_me": "About",
-    "skills": "Skills",
+    "about_me": "Über mich",
+    "skills": "Ausbildung",
     "projects": "Projects",
     "career": "Career",
     "blog": "Blog",
     "link": "Link"
   },
   "about_me":{
-    "about_me": "About Me",
-    "des": "I am a Python engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "about_me": "Über mich",
+    "des": "Ich arbeite mit hohem persönlichem Engagement, gern auch in kleineren Therapeutenteams. Einf&uuml;hlungsverm&ouml;gen, analytisches Denken und eine starke Belastbarkeit z&auml;hle ich zu meinen besonderen St&auml;rken, ebenso Verbindlichkeit, Ausdauer und Konsequenz.
+
+Wenn es sein muss, treffe ich Entscheidungen schnell und selbstbewusst und setze diese auch durch. Dabei helfen mir meine vielseitigen Erfahrungen mit Kindern, Jugendlichen und Erwachsenen, mein Auge f&uuml;r&rsquo;s Detail, mein Scharfsinn und auch eine Prise Humor.</p>
+<p>Sofern gew&uuml;nscht oder notwendig,  &auml;u&szlig;ere ich mich schonungslos offen und kritisch &ndash; falsch verstandene Loyalit&auml;t und Zur&uuml;ckhaltung lehne ich dagegen ab.</p>
+"
   },
   "skills":{
-    "my_skills": "My Skills"
+    "my_skills": "Ausbildung"
   },
   "projects":{
     "my_projects": "My Projects",
