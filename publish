@@ -1,9 +1,9 @@
 jekyll b
 
-lftp www.psychotherapie-heimke.de@ftp.strato.de <<-EOF
-user www.psychotherapie-heimke.de
-mrm * 
-EOF
+#lftp www.psychotherapie-heimke.de@ftp.strato.de <<-EOF
+#user www.psychotherapie-heimke.de
+#mrm * 
+#EOF
 # "rm -r  blog bower_components database html life linux mac python search static"
 
 cd _site

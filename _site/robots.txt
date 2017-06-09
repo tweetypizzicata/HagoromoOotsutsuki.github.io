@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: <http://psychotherapie-heimke.de/sitemap.xml>
+Sitemap: <http://tweetypizzicata.github.io/sitemap.xml>
