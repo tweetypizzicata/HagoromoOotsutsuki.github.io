@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: <http://jeckyll.christofschulze.com/sitemap.xml>
+Sitemap: <http://tweetypizzicata.github.io/sitemap.xml>

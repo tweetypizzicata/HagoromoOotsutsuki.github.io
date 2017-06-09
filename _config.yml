@@ -3,13 +3,13 @@
 # Website settings
 title: "Psychotherapiepraxis Dipl.-Psych. Eva Heimke"
 description: "Psychotherapie Eva Heimke"
-keywords: "Psychotherapie, Tiefenpsychologie, Psychologe, Psychologin, Magdeburg, Eva Heimke, TFP, Psychotherapeutin, psychologische"
-baseurl: "/praxis/"
-url: "http://jeckyll.christofschulze.com"
+keywords: "Psychotherapie, Magdeburg, Tiefenpsychologie, Psychologe, Psychologin, Magdeburg, Eva Heimke, TFP, Psychotherapeutin, psychologische"
+baseurl: "/"
+url: "http://tweetypizzicata.github.io"
 # url: "http://127.0.0.1:4000"
 
 # blog img path
-img_path: 'http://jeckyll.christofschulze.com/praxis/static/img/'
+img_path: 'http://psychotherapie-heimke.de/static/img/'
 
 # author
 author:
