@@ -1,2 +1,7 @@
 jekyll b
+
+#lftp www.psychotherapie-heimke.de@ftp.strato.de
+# mrm * 
+# "rm -r  blog bower_components database html life linux mac python search static"
+
 scp -r ./_site/ www.psychotherapie-heimke.de@ssh.strato.de:/

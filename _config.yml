@@ -9,7 +9,7 @@ url: "http://psychotherapie-heimke.de"
 # url: "http://127.0.0.1:4000"
 
 # blog img path
-img_path: 'http://psychotherapie-heimke.de/static/img/'
+img_path: '/static/img/'
 
 # author
 author:
