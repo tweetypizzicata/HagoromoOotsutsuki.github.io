@@ -7,7 +7,7 @@
 <br>*39108 Magdeburg*
 
 <br>
-**Kontakt per E-Mail *bevorzugt***:
+**Kontakt per E-Mail** ***bevorzugt***:
 <br><img src="/static/img/landing/Mailadresse.png">
 
 <br>
