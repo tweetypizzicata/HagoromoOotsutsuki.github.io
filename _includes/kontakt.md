@@ -1,4 +1,4 @@
-Auf folgenden Wegen können Sie mich kontaktieren:
+**KONTAKT**
 
 Am einfachsten und ***bevorzugt*** erreichen Sie mich per **E-Mail** an:
 <br><img src="/static/img/landing/Mailadresse.png">.
