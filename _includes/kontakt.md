@@ -1,6 +1,6 @@
 Auf folgenden Wegen können Sie mich kontaktieren:
 
-Am einfachsten und **bevorzugt** erreichen Sie mich per E-Mail an mail@psychotherapie-heimke.de
+Am einfachsten und **bevorzugt** erreichen Sie mich per E-Mail an <img src="/static/img/landing/mailadresse.png">.
 
 Briefpost richten Sie bitte an die Praxisadresse
 Dipl.-Psych. Eva Heimke
