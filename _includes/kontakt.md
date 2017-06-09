@@ -1,5 +1,3 @@
-**KONTAKT und IMPRESSUM**
-
 <br>
 **Praxisadresse:**
 <br>*Dipl.-Psych. Eva Heimke*
@@ -13,15 +11,14 @@
 <br>
 **Kontakt per Telefon** (am besten jeweils zehn Minuten vor der vollen Stunde)**:**
 <br>*Tel-Nr. 0391 / 837 99 438*.
-<br>Bitte beachten Sie jedoch, dass Psychotherapeuten aufgrund der Sitzungsdauer generell eher schlecht telefonisch erreichbar sind und nutzen Sie deshalb vorrangig die schriftlichen Kontaktdaten. Herzlichen Dank!
-
+<br><br>Bitte beachten Sie jedoch, dass Psychotherapeuten aufgrund der Sitzungsdauer generell eher schlecht telefonisch erreichbar sind und nutzen Sie deshalb vorrangig die schriftlichen Kontaktdaten. Herzlichen Dank!
+<br>
 <br>
 **Kontoverbindung für SEPA-Überweisungen:**
 <br>Kontoinhaberin: *Dipl.-Psych. Eva Heimke*
 <br>IBAN: *DE72 3006 0601 0003 8988 44*
 <br>BIC: *DAAEDEDDXXX (Deutsche Ärzte- und Apothekerbank)*
 
-<br>
 **Steuer-Nr.:**
 *102/229/12011 (Finanzamt Magdeburg*
 
