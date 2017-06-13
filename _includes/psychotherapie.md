@@ -5,7 +5,7 @@ kann laut der aktuellen Psychotherapierichtlinien vom 01.04.2017 in drei sogenan
 * Analytische Psychotherapie,
 * Tiefenpsychologisch fundierte Psychotherapie und
 * Verhaltenstherapie.
-Zwar gibt es noch mehr Therapieverfahren, diese werden jedoch zum aktuellen Zeitpunkt durch die Krankenversicherungen nicht bezahlt.
+Zwar gibt es noch weitere Therapieverfahren, diese werden jedoch zum aktuellen Zeitpunkt durch die Krankenversicherungen nicht bezahlt.
 
 In meiner Praxis wird als Richtlinienverfahren die **Tiefenpsychologisch fundierte Psychotherapie** angeboten, in begründeten Fällen ergänzt durch die Zusatzverfahren **Autogenes Training** und **Hypnosetherapie**.
 <br>
@@ -14,8 +14,7 @@ folgende Annahmen zugrunde liegen:
 * Leidenszustände sind immer ein Ergebnis einer durch frühere lebensgeschichtliche Erfahrungen geprägten innerseelischen Konfliktlage, die sich in einer gestörten Beziehung eines Menschen zu sich selbst, seinem Körper oder zu seinen Mitmenschen ausdrückt.
 * Jegliches Verhalten wird nicht nur von bewusst wahrgenommenen Absichten und überzeugungen,  sondern auch von unseren unbewussten Gedanken und Gefühlen bestimmt und gesteuert.
 * Damit die psychotherapeutische Bearbeitung der unbewussten innerseelischen Konflikte und damit Heilung oder Besserung möglich wird, bedarf es einer verlässlichen, schützenden und belastbaren therapeutischen Beziehung. Die Entwicklung dieser Beziehung steht deshalb im Mittelpunkt der tiefenpsychologischen Behandlung.
-* Patientinnen und Patienten, die sich für eine tiefenpsychologisch fundierte Psychotherapie entscheiden, versuchen mittels der Therapie die ihnen zunächst unüberwindbar erscheinenden Blockierungen in ihrer Arbeits- oder Beziehungsfähigkeit aus ihrer eigenen persönlichen
-  Geschichte heraus zu verstehen, um dann in weiteren Schritten ihre Beziehungsmuster so zu verändern, dass es den eigenen Bedürfnissen nach Lebenssinn und Lebensfreude eher entspricht.
+* Patientinnen und Patienten, die sich für eine tiefenpsychologisch fundierte Psychotherapie entscheiden, versuchen mittels der Therapie die ihnen zunächst unüberwindbar erscheinenden Blockierungen in ihrer Arbeits- oder Beziehungsfähigkeit aus ihrer eigenen persönlichen Geschichte heraus zu verstehen, um dann in weiteren Schritten ihre Beziehungsmuster so zu verändern, dass es den eigenen Bedürfnissen nach Lebenssinn und Lebensfreude eher entspricht.
 <br>
 <br>
 Die psychotherapeutische Sprechstunde
