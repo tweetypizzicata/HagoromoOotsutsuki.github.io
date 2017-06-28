@@ -33,11 +33,8 @@ Nach der psychotherapeutischen Sprechstunde kann sich bei Vorhandensein freier K
 Therapiedauer, Sitzungsdauer und -frequenz
 -----------------------------------------
 <br>
-Die Dauer der Therapie hängt von der Ausgangslage und Ihren Zielen ab. Aus Sicht der Krankenkassen besteht ein
-grundsätzliches Ziel einer Psychotherapie z. B. darin, eine/n Patientin/en (wieder) arbeitsfähig, liebesfähig und
-genussfähig zu machen und Leiden zu lindern. Eine Psychotherapie braucht grundsätzlich Zeit. Der Behandlungsumfang beträgt i. d.
-R. 25 Sitzungen für eine Kurzzeittherapie und 50 bis maximal 100 Sitzungen für eine Langzeittherapie.
+Die Dauer der Therapie hängt von der Ausgangslage und Ihren Zielen ab. Ein grundsätzliches Ziel einer Psychotherapie besteht z. B. darin, eine/n Patientin/en (wieder) arbeitsfähig, liebesfähig und genussfähig zu machen und Leiden zu lindern. Eine Psychotherapie braucht grundsätzlich Zeit. Der Behandlungsumfang beträgt i. d. R. 24 Sitzungen für eine Kurzzeittherapie und 60 bis maximal 100 Sitzungen für eine Langzeittherapie.
 
 Die therapeutischen Sitzungen dauern in der Regel 50 Minuten, können aber aufgrund inhaltlicher Erfordernisse oder bei bestimmten
 therapeutischen Interventionen geteilt (2 x 25 Minuten) oder verlängert (2 x 50 Minuten) werden und finden i. d. R. einmal
-wöchentlich statt. Falls erforderlich und von Ihnen gewünscht, können auch Bezugspersonen (z.B. Ihre Partnerin oder Ihr Partner, Eltern) zu einzelnen Sitzungen hinzugezogen werden.
+wöchentlich statt. Falls erforderlich und von Ihnen gewünscht, können auch Bezugspersonen (z.B. Ihre Partnerin oder Ihr Partner, Eltern, Geschwister, Kinder) zu einzelnen Sitzungen hinzugezogen werden.
