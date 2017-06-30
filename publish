@@ -1,6 +1,7 @@
 rm -rf _site
 jekyll b
 
+#
 #lftp www.psychotherapie-heimke.de@ftp.strato.de <<-EOF
 #user www.psychotherapie-heimke.de
 #mrm * 
