@@ -1,19 +1,19 @@
 Psychotherapie
 ==============
 <br>
-kann laut der [aktuellen Psychotherapierichtlinien vom 01.04.2017](http://www.kbv.de/media/sp/2016_06_16_PT_RL_2016_11_24_2017_02_16_neu.pdf) in drei sogenannten Richtlinienverfahren erfolgen:
-* Analytische Psychotherapie,
-* Tiefenpsychologisch fundierte Psychotherapie und
-* Verhaltenstherapie.
+kann laut der [aktuellen Psychotherapierichtlinien vom 01.04.2017](http://www.kbv.de/media/sp/2016_06_16_PT_RL_2016_11_24_2017_02_16_neu.pdf) in drei sogenannten Richtlinienverfahren erfolgen:<br>
+* Analytische Psychotherapie,<br>
+* Tiefenpsychologisch fundierte Psychotherapie und<br>
+* Verhaltenstherapie.<br>
 Zwar gibt es noch weitere Therapieverfahren, diese werden jedoch zum aktuellen Zeitpunkt durch die Krankenversicherungen nicht bezahlt.
 
 In meiner Praxis wird als Richtlinienverfahren die **Tiefenpsychologisch fundierte Psychotherapie** angeboten, in begründeten Fällen ergänzt durch die Zusatzverfahren **Autogenes Training** und **Hypnosetherapie**.
-<br>
+<br><br>
 Die tiefenpsychologisch fundierte Psychotherapie umfasst eine Reihe verschiedener Methoden, denen
-folgende Annahmen zugrunde liegen:
-* Leidenszustände sind ein Ergebnis einer durch frühere lebensgeschichtliche Erfahrungen geprägten innerseelischen Konfliktlage, die sich in einer gestörten Beziehung eines Menschen zu sich selbst, seinem Körper oder zu seinen Mitmenschen ausdrückt.
-* Jegliches Verhalten wird nicht nur von bewusst wahrgenommenen Absichten und Überzeugungen,  sondern auch von unseren unbewussten Gedanken und Gefühlen gesteuert.
-* Damit die psychotherapeutische Bearbeitung der unbewussten innerseelischen Konflikte und damit Heilung oder Besserung möglich wird, bedarf es einer verlässlichen, schützenden und belastbaren therapeutischen Beziehung. Die Entwicklung dieser Arbeitsbeziehung steht deshalb im Mittelpunkt der tiefenpsychologischen Behandlung.
+folgende Annahmen zugrunde liegen:<br>
+* Leidenszustände sind ein Ergebnis einer durch frühere lebensgeschichtliche Erfahrungen geprägten innerseelischen Konfliktlage, die sich in einer gestörten Beziehung eines Menschen zu sich selbst, seinem Körper oder zu seinen Mitmenschen ausdrückt.<br>
+* Jegliches Verhalten wird nicht nur von bewusst wahrgenommenen Absichten und Überzeugungen,  sondern auch von unseren unbewussten Gedanken und Gefühlen gesteuert.<br>
+* Damit die psychotherapeutische Bearbeitung der unbewussten innerseelischen Konflikte und damit Heilung oder Besserung möglich wird, bedarf es einer verlässlichen, schützenden und belastbaren therapeutischen Beziehung. Die Entwicklung dieser Arbeitsbeziehung steht deshalb im Mittelpunkt der tiefenpsychologischen Behandlung.<br>
 * Patientinnen und Patienten, die sich für eine tiefenpsychologisch fundierte Psychotherapie entscheiden, versuchen mittels der Therapie die ihnen zunächst unüberwindbar erscheinenden Blockierungen in ihrer Arbeits- oder Beziehungsfähigkeit aus ihrer eigenen persönlichen Geschichte heraus zu verstehen, um dann in weiteren Schritten ihre Beziehungsmuster so zu verändern, dass es den eigenen Bedürfnissen nach Lebenssinn und Lebensfreude eher entspricht.
 <br>
 <br>
