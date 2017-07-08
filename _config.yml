@@ -1,11 +1,11 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Psychotherapiepraxis Dipl.-Psych. Eva Heimke"
-description: "Psychotherapie Eva Heimke"
+title: "Praxis für Psychotherapie Dipl.-Psych. Eva Heimke"
+description: "Praxis für Psychotherapie Dipl.-Psych. Eva Heimke"
 keywords: "Psychotherapie, Magdeburg, Tiefenpsychologie, Psychologe, Psychologin, Magdeburg, Eva Heimke, TFP, Psychotherapeutin, psychologische"
 baseurl: "/"
-url: "http://psychotherapie-heimke.de"
+url: "http://www.psychotherapie-heimke.de"
 # url: "http://127.0.0.1:4000"
 
 # blog img path
@@ -33,8 +33,8 @@ author:
 landing:
   home: 'Willkommen'
   about: 'Über mich'
-  career: 'Ausbildung und Berufserfahrung'
-  therapie: 'Psychotherapie'
+  career: 'Werdegang'
+  therapie: 'Therapie'
   material: 'Material'
   kontakt: 'Kontakt'
 
