@@ -4,7 +4,7 @@ kann laut der [aktuellen Psychotherapierichtlinien vom 01.04.2017](http://www.kb
 - Verhaltenstherapie.<br>
 Zwar gibt es noch weitere Therapieverfahren, diese werden jedoch zum aktuellen Zeitpunkt durch die Krankenversicherungen nicht bezahlt.
 
-In meiner Praxis wird als Richtlinienverfahren die **Tiefenpsychologisch fundierte Psychotherapie** angeboten, in begründeten Fällen ergänzt durch die Zusatzverfahren **Autogenes Training** und **Hypnosetherapie**.
+In meiner Praxis wird als Richtlinienverfahren die **Tiefenpsychologisch fundierte Psychotherapie** angeboten, in begründeten Fällen ergänzt durch die Zusatzverfahren **Autogenes Training** und **Hypnosetherapie**. <img src="/static/img/landing/Praxis.jpg">
 <br><br>
 Die tiefenpsychologisch fundierte Psychotherapie umfasst eine Reihe verschiedener Methoden, denen
 folgende Annahmen zugrunde liegen:<br>
@@ -22,7 +22,7 @@ Meist besteht nach dann auch schon ein erster Eindruck, ob der oder die Hilfesuc
 <br><br>
 **...und dann???**
 <br><br>
-Nach der psychotherapeutischen Sprechstunde kann sich bei Vorhandensein freier Kapazitäten eine Akutbehandlung (z.B. 12 x 50 min.) oder eine reguläre Psychotherapie anschließen. Diese beginnt mit mindestens zwei (maximal vier) sogenannten probatorischen Sitzungen, in denen der oder die Hilesuchende und die Therapeutin miteinander die gemeinsame Arbeitsweise austesten. Nicht für alle PatientInnen ist jedes Therapieverfahren gleich gut geeignet. Gemeinsam mit Ihnen wird in diesen Gesprächen abhängig von Ihrer Diagnose die empfohlene Behandlung inkl. Umfang, Sitzungsfrequenz und Dauer geplant.
+Nach der psychotherapeutischen Sprechstunde kann sich bei Vorhandensein freier Kapazitäten eine Akutbehandlung (z.B. 12 x 50 min.) oder eine reguläre Psychotherapie anschließen. Diese beginnt mit mindestens zwei (maximal vier) sogenannten probatorischen Sitzungen, in denen der oder die Hilfesuchende und die Therapeutin miteinander die gemeinsame Arbeitsweise austesten. Nicht für alle PatientInnen ist jedes Therapieverfahren gleich gut geeignet. Gemeinsam mit Ihnen wird in diesen Gesprächen abhängig von Ihrer Diagnose die empfohlene Behandlung inkl. Umfang, Sitzungsfrequenz und Dauer geplant.
 <br><br>
 **Therapiedauer, Sitzungsdauer und -frequenz**
 <br><br>
