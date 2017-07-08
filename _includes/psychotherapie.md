@@ -1,6 +1,3 @@
-Psychotherapie
-==============
-<br>
 kann laut der [aktuellen Psychotherapierichtlinien vom 01.04.2017](http://www.kbv.de/media/sp/2016_06_16_PT_RL_2016_11_24_2017_02_16_neu.pdf) in drei sogenannten Richtlinienverfahren erfolgen:<br>
 - Analytische Psychotherapie,<br>
 - Tiefenpsychologisch fundierte Psychotherapie und<br>
