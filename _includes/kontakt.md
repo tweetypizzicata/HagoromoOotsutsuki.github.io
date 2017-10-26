@@ -11,10 +11,10 @@
 <br>
 **Kontakt per Telefon**
 <br>Tel-Nr. 0391 / 837 99 438
-<br><br>Am besten erreichen Sie mich jeweils zehn Minuten vor der vollen Stunde.
-<br>Bitte beachten Sie jedoch, dass Psychotherapeuten aufgrund der Sitzungsdauer
-<br>generell eher selten ans Telefon gehen können und nutzen Sie deshalb
-<br>vorrangig die schriftlichen Kontaktwege. Herzlichen Dank!
+<br><br>Am besten erreichen Sie mich zur Telefon-Sprechstunde freitags 11 bis 12 Uhr.
+<br>Ansonsten ist ein Anrufbeantworter erreichbar.
+<br>Nutzen Sie bitte vorrangig die schriftlichen Kontaktwege.
+<br>Herzlichen Dank!
 <br>
 <br>
 **Kontoverbindung für SEPA-Überweisungen:**
