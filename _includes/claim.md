@@ -4,4 +4,4 @@ Neben Informationen zu meiner Ausbildung und beruflichen Tätigkeit finden Sie h
 
 Sehen Sie sich gern in Ruhe um - und wenn Sie Fragen haben, zögern Sie nicht, mich zu kontaktieren.
 
-Aktuell habe ich **freie Therapieplätze** zu vergeben für Patient_innen aller Krankenkassen sowie Selbstzahler_innen.
+Aktuell habe ich **leider keine freie Therapieplätze** mehr zu vergeben, führe jedoch für Patienten, die in meine psychotherapeutische Sprechstunde kommen, geeignet sowie an einer Therapie interessiert sind, eine Warteliste.
