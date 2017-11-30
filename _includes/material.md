@@ -1,9 +1,3 @@
-Patientinnen und Patienten, die trotz Notwendigkeit einer Psychotherapie keinen Therapieplatz in Wohnortnähe und mit zumutbarer Wartezeit (max. drei Monate) bei einem durch die kassenärztliche Vereinigung zugelassenen Psychotherapeuten bekommen, dürfen sich die notwendigen psychpotherapeutischen Leistungen z.B. bei einem nicht zugelassenen, aber approbierten Psychotherapeuten selbst beschaffen, die Rechnungen dafür vorstrecken und sie sich durch die Krankenversicherung zurückerstatten lassen. Informationen zum sogenannten Kostenerstattungsverfahren finden Sie hier:
+[Wikipedia-Artikel zur tiefenpsychologisch fundierten Psychotherapie](https://de.wikipedia.org/wiki/Tiefenpsychologisch_fundierte_Psychotherapie)
 
-[Flyer der Psychotherapeutenkammer zum Kostenerstattungsverfahren mit Antragsvorlagen](http://www.bptk.de/uploads/media/BPtK_Ratgeber_Kostenerstattung_2.pdf)
-
-[Hilfreiche Informationen zum Kostenerstattungsverfahren auf www.therapie.de](https://www.therapie.de/psyche/info/fragen/wichtigste-fragen/psychotherapie-kostenerstattung)
-
-[oft gestellte Fragen und Antworten zum Kostenerstattungsverfahren](http://www.ptk-nrw.de/fileadmin/user_upload/pdf/Mitgliederverwaltung/2013/FAQ_Kostenerstattung.pdf).
-
-Unter bestimmten Umständen können auch Sozial- und Jugendämter Psychotherapien bezahlen. Die jeweiligen Antragsmodalitäten können dort erfragt werden.
+[Allgemeine Patienteninformation zu den Richtlinienverfahren](http://www.kbv.de/media/PTV10_Ausfuellhilfe.pdf)
