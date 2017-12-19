@@ -11,9 +11,9 @@
 <br>
 **Kontakt per Telefon**
 <br>Tel-Nr. 0391 / 837 99 438
-<br><br>Am besten erreichen Sie mich zur Telefon-Sprechstunde freitags 11 bis 12 Uhr.
-<br>Ansonsten ist für dringende Nachrichten ein Anrufbeantworter erreichbar.
-<br>Nutzen Sie bitte vorrangig die schriftlichen Kontaktwege.
+<br><br>Am besten erreichen Sie mich zur Telefon-Sprechstunde montags bis mittwochs jeweils 15 bis 15:45 Uhr.
+<br>Ansonsten ist für dringende Nachrichten wie Terminabsagen ein Anrufbeantworter erreichbar.
+<br>Nutzen Sie bitte vorrangig die schriftlichen Kontaktwege, sofern es Ihnen möglich ist.
 <br>Herzlichen Dank!
 <br>
 <br>
