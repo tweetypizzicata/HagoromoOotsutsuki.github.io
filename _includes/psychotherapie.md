@@ -4,7 +4,9 @@ kann laut der [aktuellen Psychotherapierichtlinien vom 01.04.2017](http://www.kb
 - Verhaltenstherapie.<br>
 Zwar gibt es noch weitere Therapieverfahren, diese werden jedoch zum aktuellen Zeitpunkt durch die Krankenversicherungen nicht bezahlt.
 
-In meiner Praxis wird als Richtlinienverfahren die **Tiefenpsychologisch fundierte Psychotherapie** angeboten, in begründeten Fällen ergänzt durch die Zusatzverfahren **Autogenes Training** und **Hypnosetherapie**. <img src="/static/img/landing/Praxis.jpg">
+In meiner Praxis wird als Richtlinienverfahren die **Tiefenpsychologisch fundierte Psychotherapie** angeboten, in begründeten Fällen ergänzt durch die Zusatzverfahren **Autogenes Training** und **Hypnosetherapie**.
+<br><br>
+<img src="/static/img/landing/Praxis.jpg">
 <br><br>
 Die tiefenpsychologisch fundierte Psychotherapie umfasst eine Reihe verschiedener Methoden, denen
 folgende Annahmen zugrunde liegen:<br>
